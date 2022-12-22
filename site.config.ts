@@ -2,24 +2,24 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'ba68ba6950f341f7ba1c9c92d89e1a1d',
+  rootNotionPageId: '52445c49db0446d4853c9f94092ebde6',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Testing-site',
+  name: 'Electrolytes',
   domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'Travis Fischer',
+  author: 'SharmaGanes',
 
   // open graph metadata (optional)
   description: 'Handbook',
 
   // social usernames (optional)
-  twitter: 'testing',
-  github: 'testing',
-  linkedin: 'testing',
+  twitter: 'fightforsightUK',
+  github: 'SharmaGanes',
+  linkedin: 'great-ormond-street-hospital-children&#39s-charity',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
