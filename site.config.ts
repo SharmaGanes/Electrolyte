@@ -19,7 +19,7 @@ export default siteConfig({
   // social usernames (optional)
   twitter: 'fightforsightUK',
   github: 'SharmaGanes',
-  linkedin: 'great-ormond-street-hospital-children&#39s-charity',
+  linkedin: 'british-heart-foundation',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
