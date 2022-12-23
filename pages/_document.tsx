@@ -18,6 +18,8 @@ export default class MyDocument extends Document {
             />
 
             <link rel='manifest' href='/manifest.json' />
+            <link rel = "apple-touch-icon" href = "/favicon-192x192.png" />
+            <meta name = "apple-mobile-web-app-status-bar" content = "f3f0e7"/>
             <script src="app.js"></script>
           </Head>
 
